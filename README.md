@@ -9,7 +9,9 @@
 <image align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <image align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 <image align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<image align="left" alt="javascript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+<image align="left" alt="javascript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+
+#
 
           
 
