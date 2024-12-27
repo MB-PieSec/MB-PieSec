@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-
+I'm a back-end developer who's almost new to the development field. I'm excited about the journey that I've tackled. I'm looking forward to building new projects,
+contributing to open source and growing my knowledge. 
+If you have any ideas you'd like to share, please don't hesitate to contact me. 
 
 ---
 ### Tools & Languages
