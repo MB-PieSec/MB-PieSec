@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+---
+### Tools & Languages
+<image align="left" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+          
+
 <!--
 **MB-PieSec/MB-PieSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
