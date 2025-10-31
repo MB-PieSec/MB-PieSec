@@ -3,8 +3,6 @@ I'm a back-end developer who's almost new to the development field. I'm excited 
 contributing to open source and growing my knowledge. 
 If you have any ideas you'd like to share, please don't hesitate to contact me. 
 
-Currently working on Steam Offers API: I'm trying to integrate SOLID concepts, writing tests, and refactoring my code to OOP.
-
 ---
 ### Tools & Languages
 <image align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
