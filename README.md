@@ -1,56 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=40&height=80&width=650&text=Mohamadreza%20Broumand" alt="Mohamadreza Broumand" />
+<div align="center">
+
+# Hi, I'm Mohammad 👋
+
+### Backend Developer · Building reliable systems and learning every day
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+developer+in+the+making;Turning+ideas+into+useful+software;Open+to+learning+and+collaboration)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=MB-PieSec&style=flat-square&color=36BCF7&label=Profile+views)](https://github.com/MB-PieSec)
+
+</div>
+
+## About me
+
+I'm an early-career backend developer focused on building dependable, practical software. I enjoy learning by shipping projects, improving my understanding of databases and server-side development, and contributing wherever I can.
+
+- 🌱 Currently strengthening my backend, database, and system-design foundations.
+- 🛠️ I like working with Python, JavaScript/Node.js, and SQL databases.
+- 🤝 Open to collaborating on useful projects and open-source contributions.
+- 💬 Feel free to reach out if you'd like to exchange ideas.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,html,mongodb,mysql,postgres,git&theme=dark" alt="Python, JavaScript, Node.js, Linux, HTML, MongoDB, MySQL, PostgreSQL, and Git" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2f81f7&center=true&vCenter=true&width=500&height=35&lines=Backend%20developer%20%7C%20Node.js%20%2F%20TypeScript;Building%20automation%20tools%20%26%20bots" alt="Typing tagline" />
-</p>
-
-Self-taught backend developer working toward a remote junior/backend role.
-
-🔭 Currently building **Jobwright** — a self-hosted, multi-tenant auto-apply job search bot (LinkedIn, Indeed, Jobinja, Jobvision)
-🌍 Open to remote junior/backend opportunities
-💬 Ask me about Node.js automation, Puppeteer, backend architecture, or database tooling
-
----
-
-### 🚀 Featured Projects
-
-**[Database Backup Utility](https://github.com/MB-PieSec/Database-Backup-Utility)**
-TypeScript CLI backup tool with an adapter pattern for PostgreSQL and MySQL, verbose mode, and a 27-test Vitest suite.
-
-**Lazy Notes**
-CLI tool that converts YouTube transcripts into Markdown notes and flashcards, with pluggable AI providers and AES-256 encrypted local key storage.
-
-**Jobwright** *(in progress)*
-Self-hosted, multi-tenant auto-apply job bot with a per-platform adapter architecture, SQLite storage, and LLM-based resume parsing.
-
----
-
-### 🛠️ Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 Stats
+## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=MB-PieSec&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MB-PieSec&show_icons=true&hide_border=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9CA3AF" alt="MB-PieSec's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB-PieSec&layout=compact&hide_border=true&theme=transparent&title_color=36BCF7&text_color=9CA3AF" alt="Most used languages" />
 </p>
 
----
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/mr-broumand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:MB.PieSec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### Let's build something worthwhile.
+
+</div>
