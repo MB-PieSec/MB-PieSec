@@ -32,6 +32,10 @@ I'm an early-career backend developer focused on building dependable, practical 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mb-piesec&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mb-piesec&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ### Let's build something worthwhile.
 
 </div>
