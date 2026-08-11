@@ -28,7 +28,7 @@ I'm an early-career backend developer focused on building dependable, practical 
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mb-piesec&show_icons=true&hide_border=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9CA3AF" alt="MB-PieSec's GitHub stats" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=mb-piesec&show_icons=true&hide_border=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9CA3AF" alt="MB-PieSec's GitHub stats](https://github-readme-stats-five-sigma-99.vercel.app/api?username=mb-piesec&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true)" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-piesec&layout=compact&hide_border=true&theme=transparent&title_color=36BCF7&text_color=9CA3AF" alt="Most used languages" />
 </p>
 
