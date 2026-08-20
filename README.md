@@ -1,9 +1,9 @@
+<div>
 # Hi, I'm MohamadReza 👋
 
 ### Backend Developer · Building reliable systems and learning every day
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+developer+in+the+making;Turning+ideas+into+useful+software;Open+to+learning+and+collaboration)](https://git.io/typing-svg)
-
 </div>
 
 ---
