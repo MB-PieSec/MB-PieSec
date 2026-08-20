@@ -1,29 +1,10 @@
-### Hi, I'm Mohamadreza 👋
+# Hi, I'm MohamadReza 👋
 
-```
-mohamadreza@rasht
-------------------
-                        OS: ..................... Windows 11
-    .--.                Host: ................... Freelance Backend Dev
-   |o_o |                Kernel: ................. Node.js / TypeScript
-   |:_/ |                Uptime: ................. Self-taught since 2022
-  //   \ \               Client: ................. GameGrip.ir
- (|     | )              IDE: .................... VSCode
-/'\_   _/`\              Shell: .................. bash / PowerShell
-\___)=(___/
+### Backend Developer · Building reliable systems and learning every day
 
-Languages.Programming: .. TypeScript, JavaScript, Node.js
-Languages.Learning: ..... React, Next.js
-Languages.Human: ........ Persian, English
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Backend+developer+in+the+making;Turning+ideas+into+useful+software;Open+to+learning+and+collaboration)](https://git.io/typing-svg)
 
-Databases: ............... MongoDB, PostgreSQL, MySQL
-Tools: .................... Docker, Git, Puppeteer, Axios, WebSocket, Vitest
-Focus: .................... Backend automation, scrapers, bots, payment systems
-
-Contact: ................. MB.PieSec@gmail.com
-LinkedIn: ................ mr-broumand
-GitHub: ................... MB-PieSec
-```
+</div>
 
 ---
 
