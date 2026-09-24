@@ -29,12 +29,6 @@ Self-taught backend dev | Node.js &amp; TypeScript | Building automation bots, s
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mr-broumand" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:MB.PieSec@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ### 📊 GitHub Stats
 
